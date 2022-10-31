@@ -7,3 +7,7 @@ void finction1()
 {
 	cout<<"this is function1";
 }
+void function2(int a)
+{
+	int c=a*a;
+}
